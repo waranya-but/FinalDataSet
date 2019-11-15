@@ -1,4 +1,4 @@
-id,Province_id,Province,Year, Waste , Visitor , Population , Waste_Head , Waste_Pop , Waste_Visitor , %Waste_Pop , %Waste_Visitor , %Waste_Visitor by Waste_Pop , Proper_Disposal , %Proper_Disposal 
+id,Province_id,Province,Year, A , B , C , D , E , F , G , H , I , J , K 
 1,TH81,Krabi,2557,201244,4735217,456811,1.09,499.56,51.80,90.61,9.39,10.37,104920.00,52.14
 2,TH10,Bangkok Metropolis,2557,3942000,50972772,5692284,1.76,10015.98,784.02,92.74,7.26,7.83,3942000.00,100.00
 3,TH71,Kanchanaburi,2557,291157,6641111,848198,0.91,772.53,25.16,96.85,3.15,3.26,53496.00,18.37
